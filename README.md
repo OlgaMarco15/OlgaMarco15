@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hola! Soy Olga Marco</h1>
+<h1 align="center">Hola, soy Olga Marco 👽 </h1>
 
 <p align="center">
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
