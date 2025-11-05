@@ -1,44 +1,42 @@
-# 👋 ¡Hola! Soy Olga
+# 👋 ¡Hola! Soy Olga Marco
 
-### 💻 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
+### 📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-Soy una desarrolladora en formación con muchas ganas de aprender y aportar a la comunidad tech ✨. Me apasiona crear, organizar y mejorar, ya sea en código o en la vida real.
+Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en una desarrolladora profesional, mientras disfruto del proceso y trato de hacer que mi código sea tan claro como mis ideas.
 
 ---
 
-### 🚀 Ahora mismo estoy...
+### 🌱 Ahora mismo...
 
-- Aprendiendo **Java**, **MySQL**, **Git**, **HTML**, **CSS**...
-- Desarrollando mi **Trabajo de Fin de Grado (TFG)** 🛠️
-- Participando en proyectos y ejercicios de clase
+- Estoy trabajando en mi **TFG** y aprendiendo nuevas tecnologías
+- Me estoy formando en programación, bases de datos y diseño de interfaces
+- Busco mejorar cada día a través de proyectos y retos
+
+---
+
+### 👩‍💻 Tecnologías que estoy aprendiendo
+
+| Lenguajes | Bases de Datos | Herramientas |
+|-----------|----------------|--------------|
+| Java ☕ | MySQL 🐬 | Git & GitHub 🛠️ |
+| Kotlin 📱 | | IntelliJ IDEA 💡 |
+| Python 🐍 | | Visual Studio Code 🧠 |
+| HTML 🌐 | | |
+| CSS 🎨 | | |
 
 ---
 
 ### 🧠 Un poco sobre mí
 
-- 📚 Me encanta aprender cosas nuevas y aplicarlas
-- 🧩 Soy muy organizada (sí, soy de listas 📋 y Notion)
-- 👾 Me considero bastante friki (y orgullosa)
-- 🎨 Tengo también un lado creativo que intento reflejar en todo lo que hago
+- Me encanta organizar ideas, tareas y proyectos (sí, soy fan de las listas 🗂️)
+- Soy creativa, curiosa y siempre con ganas de aprender algo nuevo
+- Me considero una persona un poco friki y lo disfruto cada día 🤓
+- Cuando no programo, me gusta ver pelis, leer o buscar ideas para futuros proyectos
 
 ---
 
-### 📬 ¡Hablamos!
+### 📬 Puedes encontrarme en:
 
-- 💼 LinkedIn: [Mi perfil profesional](https://www.linkedin.com/in/tuusuario)
-<!-- - 🐦 Twitter: *@tu_usuario* (opcional si tienes cuenta técnica) -->
-<!-- - 🌐 Portfolio: *próximamente...* -->
+🔗 [LinkedIn](https://www.linkedin.com/in/olga-marco-ugarte-b79310346)
 
----
-
-### 🛠️ Tecnologías y herramientas que uso
-
-| Lenguajes | Bases de Datos | Otros |
-|----------|----------------|-------|
-| Java ☕ | MySQL 🐬 | Git & GitHub 🛠️ |
-| HTML 🌐 | | IntelliJ IDEA 💡 |
-| CSS 🎨 | | |
-
----
-
-¡Gracias por pasar por aquí! Nos vemos en el código 👩‍💻✨
+¡Estaré encantada de conectar contigo! ✨
