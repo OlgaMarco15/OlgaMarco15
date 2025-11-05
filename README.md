@@ -38,5 +38,6 @@ Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en
 ### 📬 Puedes encontrarme en:
 
 🔗 [LinkedIn](https://www.linkedin.com/in/olga-marco-ugarte-b79310346)
+[Correo](olgamarcougarte@gmail.com)
 
 ¡Estaré encantada de conectar contigo! ✨
