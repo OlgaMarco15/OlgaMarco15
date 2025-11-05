@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hola! Soy Olga Marco</h1>
-
+<p align="center">
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
-
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/Estudiante-DAM-blue?style=for-the-badge" alt="Estudiante DAM">
   <img src="https://img.shields.io/badge/Creativa-%F0%9F%8E%A8-pink?style=for-the-badge" alt="Creativa">
