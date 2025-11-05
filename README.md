@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center">📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)</h3>
+<h3 align="center">Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) 🧑‍🎓 </h3>
 
 <p align="center">
 Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en una desarrolladora profesional, mientras disfruto del proceso y trato de que mi código sea tan claro como mis ideas.
@@ -20,7 +20,7 @@ Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en
 
 ---
 
-<h3 align="center">🌱 Ahora mismo...</h3>
+<h3 align="center">🌱 Tareas actuales 😺</h3>
 
 <p align="center">
 Estoy trabajando en mi <strong>TFG</strong> y aprendiendo nuevas tecnologías, me estoy formando en programación, bases de datos y diseño de interfaces y busco mejorar cada día a través de proyectos y retos.
@@ -28,7 +28,7 @@ Estoy trabajando en mi <strong>TFG</strong> y aprendiendo nuevas tecnologías, m
 
 ---
 
-<h3 align="center">🔧 Tecnologías que estoy aprendiendo</h3>
+<h3 align="center">Tecnologías que estoy aprendiendo 🐙</h3>
 
 <div align="center">
 
@@ -44,7 +44,7 @@ Estoy trabajando en mi <strong>TFG</strong> y aprendiendo nuevas tecnologías, m
 
 ---
 
-<h3 align="center">🧠 Un poco sobre mí</h3>
+<h3 align="center">Un poco sobre mí 🌻</h3>
 
 <p align="center">
 Me encanta organizar ideas, tareas y proyectos, soy creativa, curiosa y con muchas ganas de aprender algo nuevo. Me considero una persona un poco friki y cuando no programo, me gusta ver series y jugar videojuegos.
@@ -52,7 +52,7 @@ Me encanta organizar ideas, tareas y proyectos, soy creativa, curiosa y con much
 
 ---
 
-<h3 align="center">📬 Puedes encontrarme en:</h3>
+<h3 align="center">Puedes encontrarme en ... </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olga-marco-ugarte-b79310346">
