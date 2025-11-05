@@ -23,14 +23,14 @@ Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en
 <h3 align="center">🌱 Ahora mismo...</h3>
 
 <p align="center">
-Estoy trabajando en mi **TFG** y aprendiendo nuevas tecnologías, me estoy formando en programación, bases de datos y diseño de interfaces y busco mejorar cada día a través de proyectos y retos.
+Estoy trabajando en mi <strong>TFG</strong> y aprendiendo nuevas tecnologías, me estoy formando en programación, bases de datos y diseño de interfaces y busco mejorar cada día a través de proyectos y retos.
 </p>
 
 ---
 
 <h3 align="center">🔧 Tecnologías que estoy aprendiendo</h3>
 
-<p align="center">
+<div align="center">
 
 | Lenguajes                                                                 | Bases de Datos                                                      | Herramientas                                                      |
 |---------------------------------------------------------------------------|----------------------------------------------------------------------|------------------------------------------------------------------|
@@ -39,7 +39,8 @@ Estoy trabajando en mi **TFG** y aprendiendo nuevas tecnologías, me estoy forma
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" /> Python |                                                                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" /> IntelliJ IDEA |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> HTML5 |                                                                      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" /> VS Code |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> CSS3  |                                                                      | |
-</p>
+
+</div>
 
 ---
 
