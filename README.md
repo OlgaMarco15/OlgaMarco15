@@ -23,10 +23,7 @@ Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en
 <h3 align="center">🌱 Ahora mismo...</h3>
 
 <p align="center">
-
-- Estoy trabajando en mi **TFG** y aprendiendo nuevas tecnologías  
-- Me estoy formando en programación, bases de datos y diseño de interfaces  
-- Busco mejorar cada día a través de proyectos y retos  
+Estoy trabajando en mi **TFG** y aprendiendo nuevas tecnologías, me estoy formando en programación, bases de datos y diseño de interfaces y busco mejorar cada día a través de proyectos y retos.
 </p>
 
 ---
@@ -50,10 +47,7 @@ Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en
 
 <p align="center">
 
-- Me encanta organizar ideas, tareas y proyectos (sí, soy fan de las listas 🗂️)  
-- Soy creativa, curiosa y con muchas ganas de aprender algo nuevo  
-- Me considero una persona un poco friki y lo disfruto mucho 🤓  
-- Cuando no programo, me gusta ver pelis, leer o buscar ideas para futuros proyectos  
+Me encanta organizar ideas, tareas y proyectos, soy creativa, curiosa y con muchas ganas de aprender algo nuevo. Me considero una persona un poco friki y cuando no programo, me gusta ver series y jugar videojuegos.
 </p>
 
 ---
