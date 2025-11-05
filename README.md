@@ -46,7 +46,6 @@ Estoy trabajando en mi **TFG** y aprendiendo nuevas tecnologías, me estoy forma
 <h3 align="center">🧠 Un poco sobre mí</h3>
 
 <p align="center">
-
 Me encanta organizar ideas, tareas y proyectos, soy creativa, curiosa y con muchas ganas de aprender algo nuevo. Me considero una persona un poco friki y cuando no programo, me gusta ver series y jugar videojuegos.
 </p>
 
