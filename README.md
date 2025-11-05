@@ -55,4 +55,4 @@ Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en
 
 ---
 
-✨ _"El mejor momento para aprender algo nuevo fue ayer. El segundo mejor momento es ahora."_
+✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
