@@ -7,23 +7,23 @@
   <img src="https://img.shields.io/badge/Creativa-%F0%9F%8E%A8-pink?style=for-the-badge" alt="Creativa">
   <img src="https://img.shields.io/badge/Siempre-Aprendiendo-brightgreen?style=for-the-badge" alt="Siempre Aprendiendo">
 
-
+</p>
 ---
-
+<p align="center">
 ### 📚 Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)
 
 Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en una desarrolladora profesional, mientras disfruto del proceso y trato de que mi código sea tan claro como mis ideas.
-
+</p>
 ---
-
+<p align="center">
 ### 🌱 Ahora mismo...
 
 - Estoy trabajando en mi **TFG** y aprendiendo nuevas tecnologías
 - Me estoy formando en programación, bases de datos y diseño de interfaces
 - Busco mejorar cada día a través de proyectos y retos
-
+</p>
 ---
-
+<p align="center">
 ### 🔧 Tecnologías que estoy aprendiendo
 
 | Lenguajes | Bases de Datos | Herramientas |
@@ -33,18 +33,18 @@ Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px" /> Python | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="40px" /> IntelliJ IDEA |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" /> HTML | | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" /> VS Code |
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" /> CSS | | |
-
+</p>
 ---
-
+<p align="center">
 ### 🧠 Un poco sobre mí
 
 - Me encanta organizar ideas, tareas y proyectos (sí, soy fan de las listas 🗂️)
 - Soy creativa, curiosa y con muchas ganas de aprender algo nuevo
 - Me considero una persona un poco friki y lo disfruto mucho 🤓
 - Cuando no programo, me gusta ver pelis, leer o buscar ideas para futuros proyectos
-
+</p>
 ---
-
+<p align="center">
 ### 📬 Puedes encontrarme en:
 
 <p>
@@ -54,8 +54,8 @@ Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en
 </p>
 
 📧 **Correo:** olgamarcougarte@gmail.com
-
+</p>
 ---
-
+<p align="center">
 ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ 
 </p>
