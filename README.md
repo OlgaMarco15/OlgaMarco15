@@ -23,7 +23,7 @@ Me gusta aprender, crear y resolver problemas. Estoy en camino de convertirme en
 <h3 align="center">🌱 Tareas actuales 😺</h3>
 
 <p align="center">
-Estoy trabajando en mi <strong>TFG</strong> y aprendiendo nuevas tecnologías, me estoy formando en programación, bases de datos y diseño de interfaces y busco mejorar cada día a través de proyectos y retos.
+Estoy trabajando en mi <strong>videojuego independiente PRIMIGENIA</strong> y aprendiendo nuevas tecnologías, me estoy formando en programación, bases de datos y diseño de interfaces y busco mejorar cada día a través de proyectos y retos.
 </p>
 
 ---
