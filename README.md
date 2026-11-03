@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Estudiante-DAM-blue?style=for-the-badge" alt="Estudiante DAM">
-  <img src="https://img.shields.io/badge/Game%20Dev-%F0%9F%8E%AE-purple?style=for-the-badge" alt="Game Dev">
+  <img src="https://img.shields.io/badge/Estudiante-ARTE-blue?style=for-the-badge" alt="Estudiante ARTE">
+  <img src="https://img.shields.io/badge/Game%20Dev-%F0%9F%8E%AE-purple?style=for-the-badge" alt="Game Artist">
   <img src="https://img.shields.io/badge/Siempre-Aprendiendo-brightgreen?style=for-the-badge" alt="Siempre Aprendiendo">
 </p>
 
