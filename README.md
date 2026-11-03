@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-Estudiante de <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> con la cabeza llena de proyectos. Me interesa el mundo del desarrollo de videojuegos — tanto la parte técnica como el diseño y el arte — y disfruto igual de programar que de crear. Soy curiosa, organizada y siempre buscando aprender algo nuevo. El año que viene daré el salto al <strong>Grado en Arte para Videojuegos en la UTAD</strong>, combinando todo lo que he aprendido en DAM con mi otra gran pasión.
+Estudiante de <strong>Arte para videojuegos(DAM)</strong>en  <strong>Universidad de tecnología y arte digital (UTAD)</strong> y licenciada en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> con la cabeza llena de proyectos. Me interesa el mundo del desarrollo de videojuegos — tanto la parte técnica como el diseño y el arte — y disfruto de crear mundos creativos. Soy curiosa, organizada y siempre buscando aprender algo nuevo. 
 </p>
 
 ---
