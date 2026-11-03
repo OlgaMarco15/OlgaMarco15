@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-Estudiante de <strong>Arte para videojuegos</strong>en  <strong>Universidad de tecnología y arte digital (UTAD)</strong> y licenciada en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> con la cabeza llena de proyectos. Me interesa el mundo del desarrollo de videojuegos — tanto la parte técnica como el diseño y el arte — y disfruto de crear mundos creativos. Soy curiosa, organizada y siempre buscando aprender algo nuevo. 
+Estudiante de <strong>Arte para videojuegos</strong> en  <strong>Universidad de tecnología y arte digital (UTAD)</strong> y licenciada en <strong>Desarrollo de Aplicaciones Multiplataforma (DAM)</strong> con la cabeza llena de proyectos. Me interesa el mundo del desarrollo de videojuegos — tanto la parte técnica como el diseño y el arte — y disfruto de crear mundos creativos. Soy curiosa, organizada y siempre buscando aprender algo nuevo. 
 </p>
 
 ---
